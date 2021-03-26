@@ -1,0 +1,21 @@
+#divblue {
+    background-color: cornflowerblue;
+    height: 155px;
+    width:350px;
+    text-align: center;
+}
+
+
+#divred {
+    position: absolute;
+    top: 200px;
+    left:800px;
+    background-color:darkred;
+    height: 155px;
+    width:350px;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+}
